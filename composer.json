@@ -1,0 +1,14 @@
+{
+  "name": "majie721/webmanobjiects",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin majie721/webmanobjiects",
+  "require": {
+    "majie721/converter": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Majie721\\Webmanobjiects\\": "src"
+    }
+  }
+}
